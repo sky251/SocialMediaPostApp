@@ -15,7 +15,7 @@ Follow the steps below to install and run the application:
 
 1. **Clone the repository**  
    Clone this repository to your local machine using the following command:
-git clone https://github.com/yourusername/social-media-app.git
+git clone https://github.com/sky251/SocialMediaPostApp.git
 
 2. **Navigate to the project directory**  
 Move to the project directory:  cd social-media-app
