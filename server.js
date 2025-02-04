@@ -45,4 +45,4 @@ app.delete("/posts/:id", async (req, res) => {
 });
 
 // Start Server
-app.listen(3000, () => console.log("Server running on http://localhost:3000"));
+app.listen(8030, () => console.log("Server running on http://localhost:8030"));
